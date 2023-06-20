@@ -1,1 +1,14 @@
-
+- [AILabs1k7](https://github.com/YatingMusic/compound-word-transformer) (Pop1k7)
+  - 1,747 pieces of piano music, which are automatically transcribed from audio recordings. The genres of the dataset include animation and pop music
+- [Pop909](https://github.com/music-x-lab/POP909-Dataset)
+  - 909 piano covers of Chinese pop songs elaborately edited by experts
+  - 3 tracks - Melody, Bridge and Background
+- [Pop909 with structural analysis](https://github.com/Dsqvival/hierarchical-structure-analysis)
+- [EMOPIA](https://zenodo.org/record/5090631)
+  - 1,087 automatically transcribed clips of piano music from 387 songs, with Valence-Arousal emotion annotations
+- [ASAP](https://github.com/fosfrancesco/asap-dataset)
+  - 1,068 pieces of classical music, in which 65 pieces in the 4/4 time signature are selected
+- [Pianist8](https://zenodo.org/record/5089279)
+  - contains 411 pieces of music by 8 composers. Each composer has their own unique style, and the distribution of pieces among the composers is approximately equal
+- [VGMIDI](https://github.com/lucasnfe/vgmidi)
+  - 7,191 clips from 200 pieces of video game music with V-A emotion annotations
