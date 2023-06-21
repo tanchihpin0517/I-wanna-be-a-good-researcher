@@ -9,3 +9,4 @@ Library:
 - [x-transformers](https://github.com/lucidrains/x-transformers)
 - [xformer](https://github.com/facebookresearch/xformers) (Meta)
 - [FasterTransformer](https://github.com/NVIDIA/FasterTransformer/tree/main) (Nvidia)
+- [Fast Transformers](https://github.com/idiap/fast-transformers)
