@@ -12,3 +12,5 @@
   - contains 411 pieces of music by 8 composers. Each composer has their own unique style, and the distribution of pieces among the composers is approximately equal
 - [VGMIDI](https://github.com/lucasnfe/vgmidi)
   - 7,191 clips from 200 pieces of video game music with V-A emotion annotations
+- [Music Caption Dataset for Brain2Music](https://www.kaggle.com/datasets/nishimotolab/music-caption-brain2music)
+  - Music Caption Dataset for Brain2Music contains 540 captions for music clips annotated by musicians.
