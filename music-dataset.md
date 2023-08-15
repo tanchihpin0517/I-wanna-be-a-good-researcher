@@ -14,3 +14,5 @@
   - 7,191 clips from 200 pieces of video game music with V-A emotion annotations
 - [Music Caption Dataset for Brain2Music](https://www.kaggle.com/datasets/nishimotolab/music-caption-brain2music)
   - Music Caption Dataset for Brain2Music contains 540 captions for music clips annotated by musicians.
+- [Weimar Jazz Database (WJazzD)](https://jazzomat.hfm-weimar.de/dbformat/dboverview.html)
+  - One important cornerstone of the Jazzomat project is the database of jazz solo transcriptions (Weimar Jazz Database - WJazzD) being produced during the course of the project.
