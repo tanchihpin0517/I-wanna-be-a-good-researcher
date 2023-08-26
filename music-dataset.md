@@ -16,3 +16,7 @@
   - Music Caption Dataset for Brain2Music contains 540 captions for music clips annotated by musicians.
 - [Weimar Jazz Database (WJazzD)](https://jazzomat.hfm-weimar.de/dbformat/dboverview.html)
   - One important cornerstone of the Jazzomat project is the database of jazz solo transcriptions (Weimar Jazz Database - WJazzD) being produced during the course of the project.
+- [ACPAS dataset: Aligned Classical Piano Audio and Score](https://cheriell.github.io/research/ACPAS_dataset/)
+  - 497 distinct music scores aligned with 2189 performances, in total 179.77 hours
+- [ATEPP: A Dataset of Automatically Transcribed Expressive Piano Performances](https://github.com/BetsyTang/ATEPP)
+  - 11677 performances (~1000 hours) by 49 pianists and covers 1580 movements by 25 composers
