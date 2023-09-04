@@ -21,3 +21,4 @@
 - [ATEPP: A Dataset of Automatically Transcribed Expressive Piano Performances](https://github.com/BetsyTang/ATEPP)
   - 11677 performances (~1000 hours) by 49 pianists and covers 1580 movements by 25 composers
 - [Wikifonia](https://en.wikipedia.org/wiki/Wikifonia) & [EWLD](https://github.com/00sapo/OpenEWLD)
+- [MAESTRO](https://magenta.tensorflow.org/datasets/maestro)
