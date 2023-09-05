@@ -22,3 +22,5 @@
   - 11677 performances (~1000 hours) by 49 pianists and covers 1580 movements by 25 composers
 - [Wikifonia](https://en.wikipedia.org/wiki/Wikifonia) & [EWLD](https://github.com/00sapo/OpenEWLD)
 - [MAESTRO](https://magenta.tensorflow.org/datasets/maestro)
+- [YM2413-MDB](https://github.com/jech2/YM2413-MDB)
+  - An 80s FM video game music dataset with multi-label emotion annotations
