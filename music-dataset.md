@@ -24,3 +24,4 @@
 - [MAESTRO](https://magenta.tensorflow.org/datasets/maestro)
 - [YM2413-MDB](https://github.com/jech2/YM2413-MDB)
   - An 80s FM video game music dataset with multi-label emotion annotations
+- [Moisesdb: A dataset for source separation beyond 4-stems](https://arxiv.org/abs/2307.15913)
